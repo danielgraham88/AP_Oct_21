@@ -2,5 +2,6 @@
 repository. Changes made
 
 Change added in dazzling_feature branch to provoke conflict
-Example of stashing"
+Example of stashing
+Change made as collaborator."
 
